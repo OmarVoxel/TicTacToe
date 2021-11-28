@@ -1,0 +1,8 @@
+C:\Users\Sharki\RiderProjects\TicTacToe\TicTacToe\obj\Debug\net472\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Sharki\RiderProjects\TicTacToe\TicTacToe\obj\Debug\net472\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Sharki\RiderProjects\TicTacToe\TicTacToe\obj\Debug\net472\TicTacToe.AssemblyInfo.cs
+C:\Users\Sharki\RiderProjects\TicTacToe\TicTacToe\obj\Debug\net472\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Sharki\RiderProjects\TicTacToe\TicTacToe\bin\Debug\net472\TicTacToe.dll
+C:\Users\Sharki\RiderProjects\TicTacToe\TicTacToe\bin\Debug\net472\TicTacToe.pdb
+C:\Users\Sharki\RiderProjects\TicTacToe\TicTacToe\obj\Debug\net472\TicTacToe.dll
+C:\Users\Sharki\RiderProjects\TicTacToe\TicTacToe\obj\Debug\net472\TicTacToe.pdb
